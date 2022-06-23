@@ -52,5 +52,14 @@ body {
 }
 .search-wrapper{
     display: grid;
+    grid-template-columns: 9fr 3fr;
+    gap:1.25em ;
     
+}
+.search-wrapper button{
+    font-size:1em ;
+    background-color: white;
+    color:black;
+    padding:0.8em 0;
+    border:none;
 }
