@@ -35,7 +35,7 @@ body {
     display: block;
 }
 .navbar-links li a:hover {
-    background-color:#555;
+    background-color:grey;
 }
 .container {
     background-color: black;
@@ -49,4 +49,8 @@ body {
     border: radius0.62em;
     box-shadow: 01.25em 1.8em;
 
+}
+.search-wrapper{
+    display: grid;
+    
 }
