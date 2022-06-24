@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: green;
+    background-color: pink;
     color:white;
 }
 .nav-title{
