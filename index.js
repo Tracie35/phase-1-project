@@ -4,7 +4,7 @@ searchBtn.addEventListener("click", () => {
   let countryName = countryInp.value;
   let finalURL = `https://restcountries.com/v3.1/name/${countryName}?fullText=true`;
   console.log(finalURL);
-  fetch(`https://restcountries.com/v3.1/name/${countryName}?fullText=true`)
+  fetch(`https://restcountries.com/v3.1/${countryName}?fullText=true`)
     .then((response) => response.json())
     .then((data) => {
       //   console.log(data[0]);
