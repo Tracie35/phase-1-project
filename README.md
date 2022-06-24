@@ -2,7 +2,7 @@
 ## project by Tracy Kariuki
 
  ## Description
-This is my project about creating a country finder app to help geography students.
+This is my project about creating a country finder app to help geography .
 ### Requiremets 
 * access to a computer 
 * Access to internet
